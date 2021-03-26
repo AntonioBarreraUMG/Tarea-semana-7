@@ -1,0 +1,8 @@
+C:\Users\jeant\Desktop\ejercicio de carro (ingeniero)\clase 7 poo inicio\obj\Debug\Carrito.csprojAssemblyReference.cache
+C:\Users\jeant\Desktop\ejercicio de carro (ingeniero)\clase 7 poo inicio\obj\Debug\Carrito.Form1.resources
+C:\Users\jeant\Desktop\ejercicio de carro (ingeniero)\clase 7 poo inicio\obj\Debug\clase_7_poo_inicio.Properties.Resources.resources
+C:\Users\jeant\Desktop\ejercicio de carro (ingeniero)\clase 7 poo inicio\obj\Debug\Carrito.csproj.GenerateResource.cache
+C:\Users\jeant\Desktop\ejercicio de carro (ingeniero)\clase 7 poo inicio\obj\Debug\Carrito.csproj.CoreCompileInputs.cache
+C:\Users\jeant\Desktop\ejercicio de carro (ingeniero)\clase 7 poo inicio\obj\Debug\clase 7 poo inicio.exe
+C:\Users\jeant\Desktop\ejercicio de carro (ingeniero)\clase 7 poo inicio\obj\Debug\clase 7 poo inicio.pdb
+C:\Users\jeant\Desktop\ejercicio de carro (ingeniero)\clase 7 poo inicio\obj\Debug\clase_7_poo_inicio.Form1.resources
